@@ -4,27 +4,27 @@
 </div>
 Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a post-graduate degree and a GATE qualification, I'm well-equipped to take on challenging data analytics projects.
 
-## Skills
+## Skills 
 
 ### Excel ![Excel](https://path-to-excel-image.png)
 I have advanced skills in Excel, including working with complex formulas, PivotTables, and data visualization.
 
-### Python ![Python](https://path-to-python-image.png)
+### Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 Proficient in Python, I use it for data manipulation, analysis, and building machine learning models.
 
-### SQL ![SQL](https://path-to-sql-image.png)
+### SQL  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 I have expertise in SQL for data querying, database management, and data extraction.
 
-### Web Scraping ![Data Extracting](https://path-to-ml-image.png)
+### Web Scraping
 I Web Scraping to Extract data for data analysis task.
 
-### Pandas ![EDA](https://path-to-ml-image.png)
-I apply Pandas library for Exploratory Data analysis .
+### Pandas  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+I apply Pandas library for Exploratory Data analysis . <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### Power BI ![Power BI](https://path-to-powerbi-image.png)
-I create interactive dashboards and visualizations using Power BI to present data-driven insights.
 
-### Machine Learning ![Machine Learning](https://path-to-ml-image.png)
+### Power BI ![Power BI]  <img src="" alt="power bi" width="40" height="40"/>
+
+### Machine Learning <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 I apply machine learning algorithms for predictive modeling, clustering, and classification tasks.
 
 ## Projects
