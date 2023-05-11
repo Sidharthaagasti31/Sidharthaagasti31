@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sidharth Agasti
-
-![Data Analytics GIF]([https://path-to-your-gif.gif](https://giphy.com/gifs/ettrics-animation-design-l2SpTXlLhThF29ai4))
-
+<div align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1xTsM73tgSFYZa0-n5x2X52l7MMjh4q4N" alt="Data Analytics" width="300" height="200" >
+</div>
 Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a post-graduate degree and a GATE qualification, I'm well-equipped to take on challenging data analytics projects.
 
 ## Skills
@@ -14,6 +14,12 @@ Proficient in Python, I use it for data manipulation, analysis, and building mac
 
 ### SQL ![SQL](https://path-to-sql-image.png)
 I have expertise in SQL for data querying, database management, and data extraction.
+
+### Web Scraping ![Data Extracting](https://path-to-ml-image.png)
+I Web Scraping to Extract data for data analysis task.
+
+### Pandas ![EDA](https://path-to-ml-image.png)
+I apply Pandas library for Exploratory Data analysis .
 
 ### Power BI ![Power BI](https://path-to-powerbi-image.png)
 I create interactive dashboards and visualizations using Power BI to present data-driven insights.
