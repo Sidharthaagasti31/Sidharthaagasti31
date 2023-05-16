@@ -43,7 +43,7 @@ I apply machine learning algorithms for predictive modeling, clustering, and cla
 ## Get in Touch
 
 - LinkedIn: [Sidharth Agasti](https://www.linkedin.com/in/sidhartha-agasti-992103253/)
-- Email: sidharthagasti@example.com
+- Email: sidharthagasti@gmail.com
 
 Let's connect and collaborate on exciting data analytics projects! Feel free to reach out to discuss opportunities or share insights.
 
