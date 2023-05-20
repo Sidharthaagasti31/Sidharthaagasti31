@@ -46,3 +46,4 @@ I apply machine learning algorithms for predictive modeling, clustering, and cla
 
 Let's connect and collaborate on exciting data analytics projects! Feel free to reach out to discuss opportunities or share insights.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
