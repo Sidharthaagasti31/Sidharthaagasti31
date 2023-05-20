@@ -41,10 +41,6 @@ I apply machine learning algorithms for predictive modeling, clustering, and cla
    - Built machine learning models to predict customer churn and optimize marketing campaigns.
 
 ## Get in Touch
-
-- <img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-<img align="left" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
-<img align="left" alt="Website" width="30px" src="https://image.flaticon.com/icons/svg/876/876167.svg" />
 - LinkedIn: [Sidharth Agasti](https://www.linkedin.com/in/sidhartha-agasti-992103253/)
 - Email: sidharthagasti@gmail.com
 
