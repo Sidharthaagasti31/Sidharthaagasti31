@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Sidharth Agasti
 <div align="center">
    <img src="https://drive.google.com/uc?export=view&id=1xTsM73tgSFYZa0-n5x2X52l7MMjh4q4N" alt="Data Analytics" width="300" height="200" >
@@ -45,6 +46,7 @@ I apply machine learning algorithms for predictive modeling, clustering, and cla
 - Email: sidharthagasti@gmail.com
 
 Let's connect and collaborate on exciting data analytics projects! Feel free to reach out to discuss opportunities or share insights.
+<div align="center">
+   <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/823c83b9-3a0a-4912-9204-5f57fdee55dc" alt="Thank u" width="250" height="100" >
+</div>
 
-![Sidhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharthaagasti31&show_icons=true&theme=transparent)
-[![Sidhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharthaagasti31)](https://github.com/sidharthaagasti31/github-readme-stats)
