@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 
 ## Projects
 
-1. ![Job Analysis] ()
+1. [Job Analysis](https://github.com/Sidharthaagasti31/JOB_Analysis)
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
 
-2. [Customer Segmentation](link-to-project)
+2. [Customer Segmentation](https://github.com/Sidharthaagasti31/JOB_Analysis)
    - Conducted customer segmentation analysis using Python and SQL.
    - Developed targeted marketing strategies based on customer behavior.
 
