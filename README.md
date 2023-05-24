@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 
 ## Projects
 
-1. [Sales Data Analysis](link-to-project)
+1. [Job Analysis] 
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
 
