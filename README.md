@@ -7,26 +7,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 
 ## Skills 
 
-### Excel ![Excel](https://path-to-excel-image.png)
-I have advanced skills in Excel, including working with complex formulas, PivotTables, and data visualization.
-
-### Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-Proficient in Python, I use it for data manipulation, analysis, and building machine learning models.
-
-### SQL  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-I have expertise in SQL for data querying, database management, and data extraction.
-
-### Web Scraping
-I Web Scraping to Extract data for data analysis task.
-
-### Pandas  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-I apply Pandas library for Exploratory Data analysis . <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-### Power BI ![Power BI]  <img src="" alt="power bi" width="40" height="40"/>
-
-### Machine Learning <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-I apply machine learning algorithms for predictive modeling, clustering, and classification tasks.
+<img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/dc8316b6-70d3-416d-9910-cbf8fec92834" alt="excel" height=70 width=70 ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="70"/> </a>  <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/fab946d7-1e30-4707-9a9e-8f7248dd5123" alt="power bi" width="40" height="70"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 
 ## Projects
 
@@ -49,4 +30,44 @@ Let's connect and collaborate on exciting data analytics projects! Feel free to 
 <div align="center">
    <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/823c83b9-3a0a-4912-9204-5f57fdee55dc" alt="Thank u" width="250" height="100" >
 </div>
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/dc8316b6-70d3-416d-9910-cbf8fec92834" alt="excel" height=70 width=70 >
+
+   
+   
 
