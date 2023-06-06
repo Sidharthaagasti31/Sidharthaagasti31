@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
 
-2. [Bengaluru house price prediction](https://github.com/Sidharthaagasti31/JOB_Analysis)
+2. [Bengaluru house price prediction](https://github.com/Sidharthaagasti31/Bengaluru-House-Price-Prediction)
    - conduct EDA on data and perform outlier analysis pandas,numpy,matplotlib and seaborn
    - created a machine learning model to predict house price using sklearn 
 
