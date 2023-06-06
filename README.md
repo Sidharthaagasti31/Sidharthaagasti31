@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
    - Analyzed sales data to identify trends and opportunities for revenue growth.
    - Created insightful visualizations using Excel and Power BI.
 
-2. [Customer Segmentation](https://github.com/Sidharthaagasti31/JOB_Analysis)
-   - Conducted customer segmentation analysis using Python and SQL.
-   - Developed targeted marketing strategies based on customer behavior.
+2. [Bengaluru house price prediction](https://github.com/Sidharthaagasti31/JOB_Analysis)
+   - conduct EDA on data and perform outlier analysis pandas,numpy,matplotlib and seaborn
+   - created a machine learning model to predict house price using sklearn 
 
 3. [Predictive Modeling](link-to-project)
    - Built machine learning models to predict customer churn and optimize marketing campaigns.
