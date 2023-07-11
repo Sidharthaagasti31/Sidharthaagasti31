@@ -29,9 +29,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 - Email: sidharthagasti@gmail.com
 
 Let's connect and collaborate on exciting data analytics projects! Feel free to reach out to discuss opportunities or share insights.
-<div align="center">
-   <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/823c83b9-3a0a-4912-9204-5f57fdee55dc" alt="Thank u" width="250" height="100" >
-</div>
+
 
 
    
