@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
    - conduct EDA on data and perform outlier analysis pandas,numpy,matplotlib and seaborn
    - created a machine learning model to predict house price using sklearn 
 
-3. [Spam detector webapp using Machine Learing](link-to-project)
+3. [Spam detector webapp using Machine Learing](https://github.com/Sidharthaagasti31/Spam_Detector)
    - Built machine learning model to predict spam sms or messages .
    - deployed it to webapp using streamlit 
 
