@@ -30,6 +30,12 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 - LinkedIn: [Sidharth Agasti](https://www.linkedin.com/in/sidhartha-agasti-992103253/)
 - Email: sidharthagasti@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharthaagasti31&show_icons=true&locale=en&layout=compact" alt="sidharthaagasti31" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthaagasti31&show_icons=true&locale=en" alt="sidharthaagasti31" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaagasti31&" alt="sidharthaagasti31" /></p>
+
 Let's connect and collaborate on exciting data analytics projects! Feel free to reach out to discuss opportunities or share insights.
 
 
