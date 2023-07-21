@@ -1,8 +1,10 @@
 
 # Hi there! 👋 I'm Sidharth Agasti
+<h3 align="center">Data analyst</h3>
 <div align="center">
    <img src="https://drive.google.com/uc?export=view&id=1xTsM73tgSFYZa0-n5x2X52l7MMjh4q4N" alt="Data Analytics" width="300" height="200" >
 </div>
+
 Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a post-graduate degree and a GATE qualification, I'm well-equipped to take on challenging data analytics projects.
 
 ## Skills
